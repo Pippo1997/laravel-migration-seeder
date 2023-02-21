@@ -12,6 +12,7 @@
 
 <body>
     <h1>laravel-migration-seeder</h1>
+    <p>{{ $trains }}</p>
 </body>
 
 </html>
